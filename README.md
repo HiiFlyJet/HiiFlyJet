@@ -7,13 +7,10 @@
   <p>Transformamos desafíos operativos en ecosistemas digitales de alto rendimiento. Somos un equipo multidisciplinario especializado en arquitecturas escalables, sistemas de monitoreo en tiempo real y aplicaciones nativas.</p>
 
   <div>
-    <a href="https://hiflyjet.com" target="_blank">
+    <a href="https://hiflyjet.com.mx" target="_blank">
       <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
     </a>
-    <a href="https://linkedin.com/company/hiflyjet" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:contacto@hiflyjet.com">
+    <a href="mailto:hiflyjet14@gmail.com">
       <img src="https://img.shields.io/badge/Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </div>
