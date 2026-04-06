@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150/000000/FFFFFF/?text=HiFlyJet+Logo" alt="HiFlyJet Logo" width="150" />
+  <img src="https://hiflyjet.com.mx/img/logos/logo-min-1.svg" alt="HiFlyJet Logo" width="150" />
 
   <h1>Bienvenido a HiFlyJet 🚀</h1>
   <h3>Desarrollo de Software a la Medida | Web, Móvil & Automatización</h3>
