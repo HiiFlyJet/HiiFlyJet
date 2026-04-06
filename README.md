@@ -49,7 +49,8 @@ Aprovechamos las mejores tecnologías para cada escenario. Este es el núcleo de
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/SwiftUI-0052D6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Server" />
+  <img src="https://img.shields.io/badge/SQL_Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Databases" />  
 </div>
 
 <br/>
